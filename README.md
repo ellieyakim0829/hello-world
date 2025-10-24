@@ -9,5 +9,3 @@ IT 테스터과정입니다.
 ## 발표 동영상
 발표 동영상입니다.
 <iframe id="ytplayer" type="text/html" width="640" height="360“ src="https://www.youtube.com/live/QbFxu9vf8Yk?si=7bPQIdKGwfYSP-g0" frameborder="0"></iframe>
-## Reference
-[검색엔진](https://naver.com)
