@@ -8,4 +8,4 @@ IT 테스터과정입니다.
 [발표자료](/도서대여서비스 발표내용 정리_20240630.docx)<br>
 ## 발표 동영상
 발표 동영상입니다.
-<iframe id="ytplayer" type="text/html" width="640" height="360“ src="https://www.youtube.com/live/QbFxu9vf8Yk?si=7bPQIdKGwfYSP-g0" frameborder="0"></iframe>
+<iframe width="535" height="296“ src="https://www.youtube.com/live/QbFxu9vf8Yk?si=7bPQIdKGwfYSP-g0" frameborder="0"></iframe>
